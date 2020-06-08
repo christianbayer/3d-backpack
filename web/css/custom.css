@@ -1,0 +1,47 @@
+#prodCarousel_350134960 .item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+#prodCarousel_350134960 .item .canvas-wrapper {
+    width: 100%;
+    height: 0;
+    padding-bottom: 100%;
+}
+
+#prodCarousel_350134960 .item .canvas-wrapper canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#prodCarousel_350134960 .item .canvas-wrapper.loading .view-controls {
+    display: none;
+}
+
+#prodCarousel_350134960 .item.active {
+    display: block;
+}
+
+#prodCarousel_350134960 .item:not(.active) {
+    display: none;
+}
+
+.view-controls {
+    position: absolute;
+    top: 0;
+    right: 0;
+    text-align: right;
+    padding: 1rem;
+}
+
+.view-controls.dark {
+    color: #ffffff;
+}
+
+.view-controls .form-group {
+    margin-bottom: 5px;
+}
