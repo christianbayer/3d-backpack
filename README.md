@@ -6,8 +6,7 @@
 ![Gray Backpack](https://github.com/christianbayer/3d-backpack/blob/master/blender/Render/gray.png?raw=true)
 ![White Backpack](https://github.com/christianbayer/3d-backpack/blob/master/blender/Render/white.png?raw=true)
 
-
+### Rights
 &copy; Christian Bayer - 3D backpack modeling and integration with ThreeJS / OpenGL  
 &copy; [La Redoute](https://www.laredoute.com/) - Branding and website  
-&copy; [IPLeiria](https://www.ipleiria.pt/) - Backpack photos and requirements  
-
+&copy; [IPLeiria](https://www.ipleiria.pt/) - Backpack references and requirements  
